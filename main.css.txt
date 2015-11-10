@@ -1,0 +1,117 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url(http://www.ptaki-zdjecia.pl/ptaki/orzel-grafika.jpeg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:150px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron .container a {
+    position: relative;
+  font-size: 20px;
+  color: #0080FF;
+   display: block;
+  
+}
+
+.jumbotron p {
+    position: relative;
+  font-size: 20px;
+  color: #fff;
+}
+
+
+.fotografia {
+background-image:url(https://b1a958d930ae01e19e8ceab97968b55b6dff91df-www.googledrive.com/host/0B_p0IBSxUkGLamZSZ3F4MnhydG8);
+height: 700px;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.fotografia .container {
+  position: relative;
+  top:50px;
+}
+.fotografia .container h1 {
+    color: white;
+    top:1000px; <!--nie ogarniam czemu nie tworzy sie odstep-->
+    font-size: 48px;
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+     text-shadow:
+   -1px -1px 0 #585858,  
+    1px -1px 0 #585858,
+    -1px 1px 0 #585858,
+     1px 1px 0 #585858;
+    }
+.fotografia .container p {
+    
+    font-size: 20px;
+    }
+
+
+.www {
+background-image:url(https://a398f52a21647048c3f19d60ce5e34375b3b4c63-www.googledrive.com/host/0B_p0IBSxUkGLeTUxVUxxYm9CN0k);
+height: 700px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: -250px;
+}
+.www .container {
+  position: relative;
+  top:50px;
+}
+.www .container h1 {
+    color: white;
+    font-size: 48px;
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+     text-shadow:
+   -1px -1px 0 #585858,  
+    1px -1px 0 #585858,
+    -1px 1px 0 #585858,
+     1px 1px 0 #585858;
+    }
+.www .container p {
+    
+    font-size: 20px;
+    }
+   
+.learn-more {
+  background-color: #f7f7f7;
+  
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}

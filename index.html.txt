@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="#">O mnie</a></li>
+          <li><a href="#">Projekty</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">Moje prace foto</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1 id="sekcja3">Witaj na moje stronie</h1>
+   
+         <p>Jest ona poœwiêcona mojej twórczoœci fotograficznej, graficznej, <br>
+       a tak¿e projektowaniu stron www .</p>
+              <a href="#sekcja1">Fotografia</a>
+              <a href="#sekcja3">Projektowanie stron internetowych</a>
+  </div>
+    </div >
+    <div class="fotografia">
+     <div class="container">
+     <h1 id="sekcja1">Fotografia</h1>
+     <p>To co zdecydowanie wychodzi mi najlepiej</p>        
+     </div>
+    </div>
+    
+      </div>
+    </div >
+    <div class="www">
+     <div class="container">
+     <h1 id="#sekcja2">Projektowanie stron internetowych</h1>
+     <p>Póki co daleko w tyle ale bêdê nad tym pracowaæ </p>        
+     </div>
+    </div>
+    
+    
+    
+    <div class="learn-more">
+	  <div class="container">
+
+			<h3>Adnotacja</h3>
+			<p>Póki co wszelkie informacje zawarte na tej stronie maj¹ jedynie charakter pogl¹dowy i s³u¿om szkoleniu moich umiejêtnoœci HTML</p>
+			<a href="#" class="cd-top">Powrót na górê strony</a>
+
+		
+		  
+		  </div>
+	    </div>
+	  </div>
+	</div>
+  </body>
+</html>
